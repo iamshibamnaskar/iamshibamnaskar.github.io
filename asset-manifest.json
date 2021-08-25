@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/iamshibamnaskar.github.io/static/css/main.6b5f771d.chunk.css",
+    "main.js": "/iamshibamnaskar.github.io/static/js/main.210cea8f.chunk.js",
+    "main.js.map": "/iamshibamnaskar.github.io/static/js/main.210cea8f.chunk.js.map",
+    "runtime-main.js": "/iamshibamnaskar.github.io/static/js/runtime-main.9f4cfcd9.js",
+    "runtime-main.js.map": "/iamshibamnaskar.github.io/static/js/runtime-main.9f4cfcd9.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/iamshibamnaskar.github.io/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.b73419b4.chunk.js": "/iamshibamnaskar.github.io/static/js/2.b73419b4.chunk.js",
+    "static/js/2.b73419b4.chunk.js.map": "/iamshibamnaskar.github.io/static/js/2.b73419b4.chunk.js.map",
+    "static/js/3.eae24763.chunk.js": "/iamshibamnaskar.github.io/static/js/3.eae24763.chunk.js",
+    "static/js/3.eae24763.chunk.js.map": "/iamshibamnaskar.github.io/static/js/3.eae24763.chunk.js.map",
+    "index.html": "/iamshibamnaskar.github.io/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/iamshibamnaskar.github.io/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.6b5f771d.chunk.css.map": "/iamshibamnaskar.github.io/static/css/main.6b5f771d.chunk.css.map",
+    "static/js/2.b73419b4.chunk.js.LICENSE.txt": "/iamshibamnaskar.github.io/static/js/2.b73419b4.chunk.js.LICENSE.txt",
+    "static/media/Diwali.38ccd247.png": "/iamshibamnaskar.github.io/static/media/Diwali.38ccd247.png",
+    "static/media/RESUME_SHIBAM.ea0990b0.pdf": "/iamshibamnaskar.github.io/static/media/RESUME_SHIBAM.ea0990b0.pdf",
+    "static/media/Wall-e.b99e6a5d.jpg": "/iamshibamnaskar.github.io/static/media/Wall-e.b99e6a5d.jpg",
+    "static/media/about.aee0f771.png": "/iamshibamnaskar.github.io/static/media/about.aee0f771.png",
+    "static/media/avatar.7f806e40.svg": "/iamshibamnaskar.github.io/static/media/avatar.7f806e40.svg",
+    "static/media/crewup.8e4c40f7.png": "/iamshibamnaskar.github.io/static/media/crewup.8e4c40f7.png",
+    "static/media/emgineer.d1e00b9c.png": "/iamshibamnaskar.github.io/static/media/emgineer.d1e00b9c.png",
+    "static/media/style.css": "/iamshibamnaskar.github.io/static/media/pre.4410c5ba.svg",
+    "static/media/home-main.fb8fb678.png": "/iamshibamnaskar.github.io/static/media/home-main.fb8fb678.png",
+    "static/media/leaf.4c15d6eb.png": "/iamshibamnaskar.github.io/static/media/leaf.4c15d6eb.png",
+    "static/media/logo.e5aea2bd.png": "/iamshibamnaskar.github.io/static/media/logo.e5aea2bd.png",
+    "static/media/ytfy.e568b5e1.jpg": "/iamshibamnaskar.github.io/static/media/ytfy.e568b5e1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f4cfcd9.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.b73419b4.chunk.js",
+    "static/css/main.6b5f771d.chunk.css",
+    "static/js/main.210cea8f.chunk.js"
+  ]
+}
